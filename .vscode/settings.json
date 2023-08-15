@@ -1,0 +1,5 @@
+{
+  "vue.complete.casing.tags": "kebab",
+  "vue.complete.casing.props": "kebab",
+  "i18n-ally.localesPaths": ["locales"]
+}
